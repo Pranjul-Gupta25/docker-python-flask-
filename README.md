@@ -1,2 +1,3 @@
 # flask-app-ecs
-Simple flask app to be run on ECS
+Simple flask app run on port 80:80 
+
